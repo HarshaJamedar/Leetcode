@@ -6,7 +6,6 @@ class Solution(object):
         """
         res = ""
         if len(strs) == 0: return ""
-        if len(strs) == 1: return strs[0]
         strs.sort()
         first = strs[0]
         last = strs[-1]
