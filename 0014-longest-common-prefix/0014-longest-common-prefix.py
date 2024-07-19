@@ -9,10 +9,10 @@ class Solution(object):
         strs.sort()
         first = strs[0]
         last = strs[-1]
-        for i in range(len(first)):
-            if first[i] != last[i]:
+        for i in range(len(strs[0])):
+            if strs[0][i] != strs[-1][i]:
                 break
-            res += "".join(first[i])
+            res += "".join(strs[0][i])
         return res
 
         
