@@ -7,8 +7,6 @@ class Solution(object):
         res = ""
         if len(strs) == 0: return ""
         strs.sort()
-        first = strs[0]
-        last = strs[-1]
         for i in range(len(strs[0])):
             if strs[0][i] != strs[-1][i]:
                 break
