@@ -9,6 +9,7 @@ Leetcode problems
 | [0001-two-sum](https://github.com/HarshaJamedar/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/HarshaJamedar/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/HarshaJamedar/Leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/HarshaJamedar/Leetcode/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/HarshaJamedar/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/HarshaJamedar/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0049-group-anagrams](https://github.com/HarshaJamedar/Leetcode/tree/master/0049-group-anagrams) |
@@ -29,6 +30,7 @@ Leetcode problems
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/HarshaJamedar/Leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/HarshaJamedar/Leetcode/tree/master/0049-group-anagrams) |
 ## Sliding Window
 |  |
@@ -49,6 +51,7 @@ Leetcode problems
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/HarshaJamedar/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/HarshaJamedar/Leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/HarshaJamedar/Leetcode/tree/master/0015-3sum) |
 ## Dynamic Programming
 |  |
 | ------- |
