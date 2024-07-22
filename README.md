@@ -30,6 +30,7 @@ Leetcode problems
 | [0006-zigzag-conversion](https://github.com/HarshaJamedar/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/HarshaJamedar/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/HarshaJamedar/Leetcode/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/HarshaJamedar/Leetcode/tree/master/0125-valid-palindrome) |
 ## Sorting
 |  |
 | ------- |
@@ -57,6 +58,7 @@ Leetcode problems
 | [0011-container-with-most-water](https://github.com/HarshaJamedar/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/HarshaJamedar/Leetcode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/HarshaJamedar/Leetcode/tree/master/0027-remove-element) |
+| [0125-valid-palindrome](https://github.com/HarshaJamedar/Leetcode/tree/master/0125-valid-palindrome) |
 ## Dynamic Programming
 |  |
 | ------- |
