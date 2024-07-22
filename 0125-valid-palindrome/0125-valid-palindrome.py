@@ -4,11 +4,8 @@ class Solution(object):
         :type s: str
         :rtype: bool
         """
-        trimmed_str = ""
-        for char in s:
-            if char.isalnum():
-                trimmed_str += ''.join(char.lower())
-        return trimmed_str == trimmed_str[::-1]
+        s = ''.join(char.lower() for char in s if char.isalnum())
+        return s == s[::-1]
 
 
         
