@@ -14,6 +14,7 @@ Leetcode problems
 | [0033-search-in-rotated-sorted-array](https://github.com/HarshaJamedar/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/HarshaJamedar/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0049-group-anagrams](https://github.com/HarshaJamedar/Leetcode/tree/master/0049-group-anagrams) |
+| [0074-search-a-2d-matrix](https://github.com/HarshaJamedar/Leetcode/tree/master/0074-search-a-2d-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,6 +44,7 @@ Leetcode problems
 | [0004-median-of-two-sorted-arrays](https://github.com/HarshaJamedar/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/HarshaJamedar/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/HarshaJamedar/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/HarshaJamedar/Leetcode/tree/master/0074-search-a-2d-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -82,4 +84,8 @@ Leetcode problems
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/HarshaJamedar/Leetcode/tree/master/0011-container-with-most-water) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/HarshaJamedar/Leetcode/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
