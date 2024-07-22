@@ -13,6 +13,7 @@ Leetcode problems
 | [0027-remove-element](https://github.com/HarshaJamedar/Leetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/HarshaJamedar/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/HarshaJamedar/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0048-rotate-image](https://github.com/HarshaJamedar/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/HarshaJamedar/Leetcode/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/HarshaJamedar/Leetcode/tree/master/0074-search-a-2d-matrix) |
 ## Hash Table
@@ -87,5 +88,10 @@ Leetcode problems
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/HarshaJamedar/Leetcode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/HarshaJamedar/Leetcode/tree/master/0074-search-a-2d-matrix) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/HarshaJamedar/Leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
