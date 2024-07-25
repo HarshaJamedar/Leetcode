@@ -15,6 +15,7 @@ Leetcode problems
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/HarshaJamedar/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/HarshaJamedar/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/HarshaJamedar/Leetcode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/HarshaJamedar/Leetcode/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/HarshaJamedar/Leetcode/tree/master/0074-search-a-2d-matrix) |
 ## Hash Table
 |  |
@@ -36,6 +37,7 @@ Leetcode problems
 | ------- |
 | [0015-3sum](https://github.com/HarshaJamedar/Leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/HarshaJamedar/Leetcode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/HarshaJamedar/Leetcode/tree/master/0056-merge-intervals) |
 ## Sliding Window
 |  |
 | ------- |
