@@ -17,6 +17,7 @@ Leetcode problems
 | [0049-group-anagrams](https://github.com/HarshaJamedar/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/HarshaJamedar/Leetcode/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/HarshaJamedar/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0088-merge-sorted-array](https://github.com/HarshaJamedar/Leetcode/tree/master/0088-merge-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -38,6 +39,7 @@ Leetcode problems
 | [0015-3sum](https://github.com/HarshaJamedar/Leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/HarshaJamedar/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/HarshaJamedar/Leetcode/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/HarshaJamedar/Leetcode/tree/master/0088-merge-sorted-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -60,6 +62,7 @@ Leetcode problems
 | [0011-container-with-most-water](https://github.com/HarshaJamedar/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/HarshaJamedar/Leetcode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/HarshaJamedar/Leetcode/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/HarshaJamedar/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/HarshaJamedar/Leetcode/tree/master/0125-valid-palindrome) |
 ## Dynamic Programming
 |  |
