@@ -37,6 +37,7 @@ Leetcode problems
 | [0005-longest-palindromic-substring](https://github.com/HarshaJamedar/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/HarshaJamedar/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/HarshaJamedar/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HarshaJamedar/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/HarshaJamedar/Leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/HarshaJamedar/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/HarshaJamedar/Leetcode/tree/master/0125-valid-palindrome) |
@@ -75,6 +76,7 @@ Leetcode problems
 | [0011-container-with-most-water](https://github.com/HarshaJamedar/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/HarshaJamedar/Leetcode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/HarshaJamedar/Leetcode/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HarshaJamedar/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/HarshaJamedar/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/HarshaJamedar/Leetcode/tree/master/0125-valid-palindrome) |
 ## Dynamic Programming
@@ -120,4 +122,8 @@ Leetcode problems
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/HarshaJamedar/Leetcode/tree/master/0169-majority-element) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HarshaJamedar/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
