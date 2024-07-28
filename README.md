@@ -17,6 +17,7 @@ Leetcode problems
 | [0048-rotate-image](https://github.com/HarshaJamedar/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/HarshaJamedar/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/HarshaJamedar/Leetcode/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/HarshaJamedar/Leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/HarshaJamedar/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/HarshaJamedar/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/HarshaJamedar/Leetcode/tree/master/0169-majority-element) |
@@ -114,6 +115,7 @@ Leetcode problems
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/HarshaJamedar/Leetcode/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/HarshaJamedar/Leetcode/tree/master/0066-plus-one) |
 ## Counting
 |  |
 | ------- |
