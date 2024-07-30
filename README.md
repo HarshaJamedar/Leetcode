@@ -22,6 +22,7 @@ Leetcode problems
 | [0088-merge-sorted-array](https://github.com/HarshaJamedar/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/HarshaJamedar/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/HarshaJamedar/Leetcode/tree/master/0179-largest-number) |
+| [0283-move-zeroes](https://github.com/HarshaJamedar/Leetcode/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -79,6 +80,7 @@ Leetcode problems
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HarshaJamedar/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/HarshaJamedar/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/HarshaJamedar/Leetcode/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/HarshaJamedar/Leetcode/tree/master/0283-move-zeroes) |
 ## Dynamic Programming
 |  |
 | ------- |
