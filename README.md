@@ -23,6 +23,7 @@ Leetcode problems
 | [0169-majority-element](https://github.com/HarshaJamedar/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/HarshaJamedar/Leetcode/tree/master/0179-largest-number) |
 | [0283-move-zeroes](https://github.com/HarshaJamedar/Leetcode/tree/master/0283-move-zeroes) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/HarshaJamedar/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 ## Hash Table
 |  |
 | ------- |
@@ -65,6 +66,7 @@ Leetcode problems
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/HarshaJamedar/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/HarshaJamedar/Leetcode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/HarshaJamedar/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/HarshaJamedar/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 ## Divide and Conquer
 |  |
 | ------- |
