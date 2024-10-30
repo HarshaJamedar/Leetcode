@@ -20,6 +20,7 @@ Leetcode problems
 | [0066-plus-one](https://github.com/HarshaJamedar/Leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/HarshaJamedar/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/HarshaJamedar/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/HarshaJamedar/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/HarshaJamedar/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/HarshaJamedar/Leetcode/tree/master/0179-largest-number) |
 | [0283-move-zeroes](https://github.com/HarshaJamedar/Leetcode/tree/master/0283-move-zeroes) |
@@ -74,6 +75,7 @@ Leetcode problems
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/HarshaJamedar/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/HarshaJamedar/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/HarshaJamedar/Leetcode/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
@@ -102,6 +104,7 @@ Leetcode problems
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/HarshaJamedar/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/HarshaJamedar/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -110,6 +113,7 @@ Leetcode problems
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/HarshaJamedar/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/HarshaJamedar/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Greedy
 |  |
 | ------- |
@@ -133,4 +137,8 @@ Leetcode problems
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HarshaJamedar/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/HarshaJamedar/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
