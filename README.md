@@ -48,6 +48,7 @@ Leetcode problems
 | [0076-minimum-window-substring](https://github.com/HarshaJamedar/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/HarshaJamedar/Leetcode/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/HarshaJamedar/Leetcode/tree/master/0179-largest-number) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/HarshaJamedar/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 ## Sorting
 |  |
 | ------- |
