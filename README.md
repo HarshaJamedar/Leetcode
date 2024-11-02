@@ -49,6 +49,7 @@ Leetcode problems
 | [0125-valid-palindrome](https://github.com/HarshaJamedar/Leetcode/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/HarshaJamedar/Leetcode/tree/master/0179-largest-number) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/HarshaJamedar/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [2580-circular-sentence](https://github.com/HarshaJamedar/Leetcode/tree/master/2580-circular-sentence) |
 ## Sorting
 |  |
 | ------- |
