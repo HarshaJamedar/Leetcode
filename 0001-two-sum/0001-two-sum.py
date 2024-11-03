@@ -5,15 +5,14 @@ class Solution(object):
         :type target: int
         :rtype: List[int]
         """
-        for i in range(len(nums)):
-            temp = target-nums[i]
-            nums[i]='inf'
-            if temp in nums:
-                return [i,(nums.index(temp))]
+        hash_map = {}
+        for i,num in enumerate(nums):
+            diff = target - num
+            if diff in hash_map:
+                return [i,hash_map[diff]]
+            hash_map[num] = i
+        return []
+
         
-
-
-
         
-
         
