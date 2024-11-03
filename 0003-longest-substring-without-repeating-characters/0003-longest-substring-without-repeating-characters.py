@@ -4,20 +4,17 @@ class Solution(object):
         :type s: str
         :rtype: int
         """
-        l = 0
-        longest = 0
-        unique_letters = set()
-
-        for r in range(len(s)):
-            #if the char is in set, we have to remove the char in set before moving l to next index
-            while s[r] in unique_letters:
-                unique_letters.remove(s[l])
-                l += 1
-            #window gives the substring length using sliding window technique
-            window = (r-l)+1
-            longest = max(longest,window)
-            unique_letters.add(s[r])
-        return longest
-
+        hashMap = {}
+        max_length = 0
+        left = 0
+        for right in range(len(s)):
+            if s[right] in hashMap:
+                left = max(left,hashMap[s[right]]+1)
+            hashMap[s[right]] = right
+            max_length = max(max_length, right-left+1)
+        return max_length 
+        
+        
+        
 
         
