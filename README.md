@@ -54,6 +54,7 @@ Leetcode problems
 | [0812-rotate-string](https://github.com/HarshaJamedar/Leetcode/tree/master/0812-rotate-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/HarshaJamedar/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [2580-circular-sentence](https://github.com/HarshaJamedar/Leetcode/tree/master/2580-circular-sentence) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/HarshaJamedar/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3451-string-compression-iii](https://github.com/HarshaJamedar/Leetcode/tree/master/3451-string-compression-iii) |
 ## Sorting
 |  |
@@ -109,6 +110,7 @@ Leetcode problems
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/HarshaJamedar/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/HarshaJamedar/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Tree
 |  |
 | ------- |
@@ -158,4 +160,8 @@ Leetcode problems
 | ------- |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/HarshaJamedar/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/HarshaJamedar/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
+## Simulation
+|  |
+| ------- |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/HarshaJamedar/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 <!---LeetCode Topics End-->
