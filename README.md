@@ -164,4 +164,12 @@ Leetcode problems
 |  |
 | ------- |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/HarshaJamedar/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/HarshaJamedar/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/HarshaJamedar/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
