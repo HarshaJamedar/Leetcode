@@ -22,6 +22,7 @@ Leetcode problems
 | [0074-search-a-2d-matrix](https://github.com/HarshaJamedar/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/HarshaJamedar/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/HarshaJamedar/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0136-single-number](https://github.com/HarshaJamedar/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/HarshaJamedar/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/HarshaJamedar/Leetcode/tree/master/0179-largest-number) |
 | [0283-move-zeroes](https://github.com/HarshaJamedar/Leetcode/tree/master/0283-move-zeroes) |
@@ -165,6 +166,7 @@ Leetcode problems
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/HarshaJamedar/Leetcode/tree/master/0136-single-number) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/HarshaJamedar/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/HarshaJamedar/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Simulation
