@@ -53,6 +53,7 @@ Leetcode problems
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HarshaJamedar/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/HarshaJamedar/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/HarshaJamedar/Leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/HarshaJamedar/Leetcode/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/HarshaJamedar/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/HarshaJamedar/Leetcode/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/HarshaJamedar/Leetcode/tree/master/0179-largest-number) |
@@ -151,6 +152,7 @@ Leetcode problems
 | [0013-roman-to-integer](https://github.com/HarshaJamedar/Leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/HarshaJamedar/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/HarshaJamedar/Leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/HarshaJamedar/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/HarshaJamedar/Leetcode/tree/master/0069-sqrtx) |
 ## Counting
 |  |
@@ -169,12 +171,14 @@ Leetcode problems
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/HarshaJamedar/Leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/HarshaJamedar/Leetcode/tree/master/0136-single-number) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/HarshaJamedar/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/HarshaJamedar/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/HarshaJamedar/Leetcode/tree/master/0067-add-binary) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/HarshaJamedar/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Linked List
 |  |
