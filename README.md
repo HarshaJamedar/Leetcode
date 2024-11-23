@@ -124,15 +124,18 @@ Leetcode problems
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/HarshaJamedar/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/HarshaJamedar/Leetcode/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/HarshaJamedar/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/HarshaJamedar/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/HarshaJamedar/Leetcode/tree/master/0100-same-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/HarshaJamedar/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/HarshaJamedar/Leetcode/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/HarshaJamedar/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Greedy
 |  |
@@ -189,4 +192,8 @@ Leetcode problems
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/HarshaJamedar/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/HarshaJamedar/Leetcode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
