@@ -22,6 +22,7 @@ Leetcode problems
 | [0074-search-a-2d-matrix](https://github.com/HarshaJamedar/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/HarshaJamedar/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/HarshaJamedar/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0119-pascals-triangle-ii](https://github.com/HarshaJamedar/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/HarshaJamedar/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/HarshaJamedar/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/HarshaJamedar/Leetcode/tree/master/0179-largest-number) |
@@ -112,6 +113,7 @@ Leetcode problems
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/HarshaJamedar/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0119-pascals-triangle-ii](https://github.com/HarshaJamedar/Leetcode/tree/master/0119-pascals-triangle-ii) |
 ## Trie
 |  |
 | ------- |
