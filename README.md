@@ -113,6 +113,7 @@ Leetcode problems
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/HarshaJamedar/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/HarshaJamedar/Leetcode/tree/master/0070-climbing-stairs) |
 | [0119-pascals-triangle-ii](https://github.com/HarshaJamedar/Leetcode/tree/master/0119-pascals-triangle-ii) |
 ## Trie
 |  |
@@ -174,6 +175,7 @@ Leetcode problems
 | [0066-plus-one](https://github.com/HarshaJamedar/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/HarshaJamedar/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/HarshaJamedar/Leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/HarshaJamedar/Leetcode/tree/master/0070-climbing-stairs) |
 ## Counting
 |  |
 | ------- |
@@ -216,4 +218,8 @@ Leetcode problems
 | [0100-same-tree](https://github.com/HarshaJamedar/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/HarshaJamedar/Leetcode/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/HarshaJamedar/Leetcode/tree/master/0112-path-sum) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/HarshaJamedar/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
