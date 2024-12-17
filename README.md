@@ -180,6 +180,7 @@ Leetcode problems
 | [0007-reverse-integer](https://github.com/HarshaJamedar/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/HarshaJamedar/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/HarshaJamedar/Leetcode/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/HarshaJamedar/Leetcode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/HarshaJamedar/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/HarshaJamedar/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/HarshaJamedar/Leetcode/tree/master/0067-add-binary) |
@@ -202,6 +203,7 @@ Leetcode problems
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/HarshaJamedar/Leetcode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/HarshaJamedar/Leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/HarshaJamedar/Leetcode/tree/master/0136-single-number) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/HarshaJamedar/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
